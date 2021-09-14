@@ -1,9 +1,9 @@
 #!/bin/sh
 
 # 
-# SCRIPT : DOWNLOAD AND INSTALL xcplugin #
+# SCRIPT : DOWNLOAD AND INSTALL xcplugin-1 #
 # 
-# Command: wget https://raw.githubusercontent.com/emilnabil/xcplugin/main/installer.sh -O - | /bin/sh #
+# Command: wget https://raw.githubusercontent.com/emilnabil/xcplugin-1/main/installer.sh -O - | /bin/sh #
 ######## 
 # Plugin	 xcplugin #
 PACKAGE_DIR='xcplugin/main/'
