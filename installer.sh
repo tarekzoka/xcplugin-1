@@ -5,7 +5,7 @@
 # 
 # Command: wget https://raw.githubusercontent.com/emilnabil/xcplugin-1/main/installer.sh -O - | /bin/sh #
 ######## 
-# Plugin	 xcplugin #
+# Plugin	 xcplugin-1 #
 PACKAGE_DIR='xcplugin/main/'
 MY_IPK="enigma2-plugin-extensions-xcplugin-forever_1.6_all.ipk"
 MY_DEB="enigma2-plugin-extensions-xcplugin-forever_1.6_all.deb"
@@ -23,10 +23,10 @@ fi
 MY_TMP_FILE="/tmp/"$MY_FILE
 
 echo ''
-echo 'welcome to xcplugin'
+echo 'welcome to xcplugin-1'
 echo '**  STARTED  **'                     
-echo "**  Uploaded by: Emil_Nabil  **"                 
-echo "WELCOME TO xcplugin"
+echo "**  Uploaded by:tarek  **"                 
+echo "WELCOME TO xcplugin-1"
 echo ''
 
 # Remove previous file (if any)
