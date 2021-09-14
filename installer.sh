@@ -3,7 +3,7 @@
 # 
 # SCRIPT : DOWNLOAD AND INSTALL xcplugin-1 #
 # 
-# Command: wget https://raw.githubusercontent.com/emilnabil/xcplugin-1/main/installer.sh -O - | /bin/sh #
+# Command: wget https://raw.githubusercontent.com/tarekzoka/xcplugin-1/main/installer.sh -O - | /bin/sh #
 ######## 
 # Plugin	 xcplugin-1 #
 PACKAGE_DIR='xcplugin/main/'
